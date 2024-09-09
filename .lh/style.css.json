@@ -1,0 +1,30 @@
+{
+    "sourceFile": "style.css",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 3,
+            "patches": [
+                {
+                    "date": 1725892114152,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1725892120233,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,1 +1,1 @@\n-bak\n\\ No newline at end of file\n+bac\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1725892128800,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,1 +1,3 @@\n-bac\n\\ No newline at end of file\n+body{\r\n+    ba\r\n+}\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1725892134168,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,3 +1,3 @@\n body{\r\n-    ba\r\n+    background: blue;\r\n }\n\\ No newline at end of file\n"
+                }
+            ],
+            "date": 1725892114152,
+            "name": "Commit-0",
+            "content": "bak"
+        }
+    ]
+}
