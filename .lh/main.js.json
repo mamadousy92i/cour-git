@@ -1,0 +1,22 @@
+{
+    "sourceFile": "main.js",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 1,
+            "patches": [
+                {
+                    "date": 1725892639415,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1725892644976,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,1 +1,1 @@\n-alert()\n\\ No newline at end of file\n+alert(\"hello world\")\n\\ No newline at end of file\n"
+                }
+            ],
+            "date": 1725892639415,
+            "name": "Commit-0",
+            "content": "alert()"
+        }
+    ]
+}

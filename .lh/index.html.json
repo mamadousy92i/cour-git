@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 1,
+            "activePatchIndex": 3,
             "patches": [
                 {
                     "date": 1725892076146,
@@ -12,6 +12,14 @@
                 {
                     "date": 1725892086879,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -2,9 +2,9 @@\n <html lang=\"en\">\r\n <head>\r\n     <meta charset=\"UTF-8\">\r\n     <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n-    li,k\r\n+    <link rel=\"stylesheet\" href=\"style.css\">\r\n     <title>Document</title>\r\n </head>\r\n <body>\r\n     \r\n"
+                },
+                {
+                    "date": 1725892659981,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -8,5 +8,6 @@\n </head>\r\n <body>\r\n     \r\n </body>\r\n+\r\n </html>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1725892668507,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -8,6 +8,6 @@\n </head>\r\n <body>\r\n     \r\n </body>\r\n-\r\n+<script src=\"\"></script>\r\n </html>\n\\ No newline at end of file\n"
                 }
             ],
             "date": 1725892076146,
